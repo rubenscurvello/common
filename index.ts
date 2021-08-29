@@ -1,5 +1,5 @@
-import  datetime  from "./src/datetime";
-import  logger  from "./src/logger";
-import  validator  from "./src/validator";
+import datetime from "./src/datetime";
+import Logger from "./src/logger";
+import Validator from "./src/validator";
 
-export { datetime, logger, validator };
+export { datetime, Logger, Validator };
