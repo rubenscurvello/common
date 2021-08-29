@@ -1,0 +1,13 @@
+{
+  "name": "common",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^16.7.6",
+    "chalk": "^4.1.2",
+    "moment": "^2.29.1",
+    "types": "https://github.com/rubenscurvello/types.git"
+  },
+  "devDependencies": {}
+}
